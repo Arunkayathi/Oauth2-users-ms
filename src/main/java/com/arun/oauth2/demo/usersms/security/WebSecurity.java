@@ -1,4 +1,4 @@
-package com.arun.oauth2.demo.resourceserver.security;
+package com.arun.oauth2.demo.usersms.security;
 
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;

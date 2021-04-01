@@ -1,4 +1,4 @@
-package com.arun.oauth2.demo.resourceserver.dto;
+package com.arun.oauth2.demo.usersms.dto;
 
 import java.util.Objects;
 

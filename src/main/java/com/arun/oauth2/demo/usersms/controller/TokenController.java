@@ -1,4 +1,4 @@
-package com.arun.oauth2.demo.resourceserver.controller;
+package com.arun.oauth2.demo.usersms.controller;
 
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.oauth2.jwt.Jwt;

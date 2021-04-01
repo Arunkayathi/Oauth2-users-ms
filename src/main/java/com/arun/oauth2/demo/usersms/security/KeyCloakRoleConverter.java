@@ -1,4 +1,4 @@
-package com.arun.oauth2.demo.resourceserver.security;
+package com.arun.oauth2.demo.usersms.security;
 
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.security.core.GrantedAuthority;

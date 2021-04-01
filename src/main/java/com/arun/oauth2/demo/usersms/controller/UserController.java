@@ -1,7 +1,6 @@
-package com.arun.oauth2.demo.resourceserver.controller;
+package com.arun.oauth2.demo.usersms.controller;
 
-import com.arun.oauth2.demo.resourceserver.dto.UserDetails;
-import org.springframework.security.access.annotation.Secured;
+import com.arun.oauth2.demo.usersms.dto.UserDetails;
 import org.springframework.security.access.prepost.PostAuthorize;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
